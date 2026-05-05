@@ -134,7 +134,7 @@ HealthAI-Project/
 Base URL:
 
 ```
-https://healthai-backend-oj25.onrender.com/
+https://medical-image-classifier-for-chest-x-ray-abnormality-detection.streamlit.app/
 ```
 
 Swagger Docs:
