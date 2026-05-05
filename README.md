@@ -228,6 +228,8 @@ streamlit run app.py
 Streamlit UI:
 [http://localhost:8501/](http://localhost:8501/)
 
+DEMO : https://medical-image-classifier-for-chest-x-ray-abnormality-detection.streamlit.app/
+
 ---
 
 ## 📸 Screenshots
